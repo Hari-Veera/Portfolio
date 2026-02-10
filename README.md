@@ -86,9 +86,9 @@ or use VS Code Live Server.
 
 ## 🌐 Connect With Me
 
-📧 **Email:** [hariveeramedipudi@gmail.com](mailto:hariveeramedipudi@email.com)  
-💼 **LinkedIn:** [https://www.linkedin.com/in/medipudi-hari-veera-25750a266](https://www.linkedin.com/in/hariveera)  
-💻 **GitHub:** [github.com/Hari-Veera](https://github.com/Hari-Veera)
+📧 **Email:** [hariveeramedipudi@gmail.com](mailto:hariveeramedipudi@gmail.com)  
+💼 **LinkedIn:** [medipudi-hari-veera](https://www.linkedin.com/in/medipudi-hari-veera-25750a266)  
+💻 **GitHub:** [Hari-Veera](https://github.com/Hari-Veera)
 
 
 ## 📄 License
