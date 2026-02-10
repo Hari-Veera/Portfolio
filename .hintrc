@@ -4,8 +4,13 @@
   ],
   "hints": {
     "meta-viewport": "off",
-    "axe/name-role-value": "off",
-    "disown-opener": "off",
-    "axe/parsing": "off"
+    "no-inline-styles": "off",
+    "axe/name-role-value": [
+      "default",
+      {
+        "link-name": "off"
+      }
+    ],
+    "disown-opener": "off"
   }
 }
