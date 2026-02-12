@@ -347,22 +347,31 @@ body {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  align-items: flex-start;
   border: 2px solid #a259ff33;
   transition: box-shadow 0.2s, transform 0.2s;
 }
+
 .project-card:hover {
   box-shadow: 0 0 32px #38b6ff99;
   transform: translateY(-8px) scale(1.03);
 }
+
+/* Project Image */
 .project-card img {
   width: 100%;
-  height: 180px;
+  height: 200px;
   object-fit: cover;
-  border-bottom: 2px solid #a259ff33;
+  display: block;
+  background-color: #0a0822; /* fallback */
+  filter: brightness(1.15) contrast(1.1);
 }
+
+/* Project Content */
 .project-info {
   padding: 1.2rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1; /* IMPORTANT */
 }
 .project-info h3 {
   margin: 0 0 0.5rem 0;
@@ -375,6 +384,7 @@ body {
   margin-bottom: 1rem;
 }
 .project-links {
+  margin-top: auto;
   display: flex;
   gap: 1rem;
 }
